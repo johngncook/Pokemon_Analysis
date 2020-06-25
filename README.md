@@ -7,10 +7,10 @@ In this analysis we quite possibly find the strongest pokemon and the strongest 
 
 In order to do use this python notebook you will need to install the following libraries:
 
-*numpy
-*pandas
-*seaborn 
-*matplotlib
+* numpy
+* pandas
+* seaborn 
+* matplotlib
 
 Enter the following into the terminal:
 ```
